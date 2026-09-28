@@ -14,7 +14,7 @@ export function LocalProductPage({ page }: { page: PageData }) {
       <header className="topbar">
         <Link className="logo" href="/">
           <Image
-            src="/mascot/02_circle_badge_pointing_man_with_bubble.png"
+            src="/mascot/02_circle_badge_pointing_man_with_bubble.webp"
             alt="Uncle Morris"
             width={72}
             height={72}

@@ -60,7 +60,7 @@ export function CampaignHero({ campaign }: { campaign: CampaignHeroData }) {
           </div>
         ))}
         <a className="icon-phone" href={campaign.phoneHref}>
-          <Image src="/icons/09_phone_handset.png" alt="" width={72} height={72} unoptimized />
+          <Image src="/icons/09_phone_handset.webp" alt="" width={72} height={72} unoptimized />
           <p>
             <strong>{campaign.phoneDisplay}</strong>
             <span>{campaign.siteUrl}</span>

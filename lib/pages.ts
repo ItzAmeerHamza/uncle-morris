@@ -69,11 +69,11 @@ export const pages: LocalProductPage[] = [
       "Investment-property financing that starts with the property’s rent and expenses — not a W-2 story the bank already decided.",
     phoneDisplay: PHONE_DISPLAY,
     phoneHref: PHONE_HREF,
-    mascotSrc: "/mascot/01_pointing_man_with_bubble.png",
+    mascotSrc: "/mascot/01_pointing_man_with_bubble.webp",
     heroBenefits: [
-      { icon: "/icons/22_multiple_houses.png", title: "DSCR LOANS", subtitle: "1-4 UNITS" },
-      { icon: "/icons/02_dollar_circle.png", title: "INVESTOR", subtitle: "PROPERTY PATH" },
-      { icon: "/icons/03_check_circle.png", title: "PERSONAL", subtitle: "GUIDANCE" },
+      { icon: "/icons/22_multiple_houses.webp", title: "DSCR LOANS", subtitle: "1-4 UNITS" },
+      { icon: "/icons/02_dollar_circle.webp", title: "INVESTOR", subtitle: "PROPERTY PATH" },
+      { icon: "/icons/03_check_circle.webp", title: "PERSONAL", subtitle: "GUIDANCE" },
     ],
     supportingPoints: [
       "Qualification centered on property economics",
@@ -179,11 +179,11 @@ export const pages: LocalProductPage[] = [
       "Self-employed borrowers often have deposits that look nothing like last year’s AGI. This page explains the conversation — it does not invent an approval.",
     phoneDisplay: PHONE_DISPLAY,
     phoneHref: PHONE_HREF,
-    mascotSrc: "/mascot/01_pointing_man_with_bubble.png",
+    mascotSrc: "/mascot/01_pointing_man_with_bubble.webp",
     heroBenefits: [
-      { icon: "/icons/18_bank_statement_dollar.png", title: "12 MONTH", subtitle: "BANK STATEMENT" },
-      { icon: "/icons/01_single_user.png", title: "SELF-EMPLOYED", subtitle: "OK" },
-      { icon: "/icons/03_check_circle.png", title: "LICENSED", subtitle: "REVIEW" },
+      { icon: "/icons/18_bank_statement_dollar.webp", title: "12 MONTH", subtitle: "BANK STATEMENT" },
+      { icon: "/icons/01_single_user.webp", title: "SELF-EMPLOYED", subtitle: "OK" },
+      { icon: "/icons/03_check_circle.webp", title: "LICENSED", subtitle: "REVIEW" },
     ],
     supportingPoints: [
       "Built for self-employed cash-flow stories",
@@ -285,11 +285,11 @@ export const pages: LocalProductPage[] = [
       "Higher Encino purchase prices can sit above conforming limits. This page is the jumbo conversation — not a rate, not a lock, and not a promise that every file is jumbo.",
     phoneDisplay: PHONE_DISPLAY,
     phoneHref: PHONE_HREF,
-    mascotSrc: "/mascot/01_pointing_man_with_bubble.png",
+    mascotSrc: "/mascot/01_pointing_man_with_bubble.webp",
     heroBenefits: [
-      { icon: "/icons/23_house_dollar.png", title: "UP TO", subtitle: "$5 MILLION+" },
-      { icon: "/icons/05_percent_circle.png", title: "PRICING", subtitle: "REVIEW" },
-      { icon: "/icons/01_single_user.png", title: "EXPERT", subtitle: "GUIDANCE" },
+      { icon: "/icons/23_house_dollar.webp", title: "UP TO", subtitle: "$5 MILLION+" },
+      { icon: "/icons/05_percent_circle.webp", title: "PRICING", subtitle: "REVIEW" },
+      { icon: "/icons/01_single_user.webp", title: "EXPERT", subtitle: "GUIDANCE" },
     ],
     supportingPoints: [
       "Purchase prices that may exceed conforming limits",
